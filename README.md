@@ -1,6 +1,6 @@
 # Robô de Batalha 
 
-Este projeto consiste em um jogo de batalha em que o usuário pode criar e personalizar seu próprio robô. O robô tem diferentes estatísticas como força, velocidade e resistência, que são atualizadas dinamicamente ao adicionar mais braços, núcleos e pernas.
+Este projeto consiste em um painel de ajustes em que o usuário pode criar e personalizar seu próprio robô. O robô tem diferentes estatísticas como força, velocidade e resistência, que são atualizadas dinamicamente ao adicionar mais braços, núcleos e pernas.
 
 ## Como executar o projeto
 Para executar o projeto, basta clonar o repositório em sua máquina local e abrir o arquivo index.html em um navegador da web.
